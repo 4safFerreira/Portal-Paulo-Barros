@@ -1,0 +1,46 @@
+.imgsloukas{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:24px;
+    text-align:center;
+    margin-top: 40px;
+    margin-bottom:5%;
+}
+
+.paulim-arretado{
+    width: 512px;
+    height: 288px;
+    display:inline;
+    margin-top:7%;
+    margin-left:13%;
+    margin-right:30px;
+    border-radius: 5%;
+}
+
+.exaltado{
+    width:236px;
+    height:256px;
+    margin-top:20%;
+    margin-left:50%;
+    border-radius:5%;
+}
+
+.japanese{
+    width:440px;
+    height:280px;
+    margin-left:20%;
+    border-radius:5%;
+}
+
+.serio{
+    width:257px;
+    height:239px;
+    margin-top:20%;
+    margin-left:50%;
+    border-radius:5%;
+}
+
+.chad{
+    margin-top:20%;
+    margin-left:50%;
+    border-radius:5%;
+}

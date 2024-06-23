@@ -1,0 +1,78 @@
+.about{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:24px;
+    text-align:center;
+    margin-top: 40px;
+    margin-bottom:5%;
+}
+
+table{
+    margin-left:10%;
+}
+
+.armazenar-img{
+    width: 512px;
+    height: 288px;
+    display:inline
+}
+
+.paulim{
+    width: 512px;
+    height: 288px;
+    display:inline;
+    margin-top:7%;
+    margin-left:13%;
+    margin-right:30px;
+    border-radius: 5%;
+}
+
+.sobre1{
+    margin-bottom:20%;
+} 
+
+.paulim-text{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    text-align: left;
+    margin-left:25%;
+}
+.textxandis{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    text-align:left;
+    margin-left:25%;
+}
+
+.xandisimg{
+    border-radius: 10%;
+    margin-left: 25%;
+}
+
+.nofavelaimg{
+    width:236px;
+    height:256px;
+    margin-left:25%;
+    border-radius:5%;
+}
+
+.nofavelatxt{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    text-align: left;
+    margin-left:25%;
+}
+.txtconclude{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    text-align: left;
+    margin-left:25%;
+}
+.japa{
+    width:440px;
+    height:280px;
+    margin-left:20%;
+    border-radius:5%;
+}
+footer{
+    margin-top:10%;
+}
